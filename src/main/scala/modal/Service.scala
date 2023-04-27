@@ -10,7 +10,8 @@ import org.mongodb.scala.model.{Filters,Updates}
 import scala.language.postfixOps
 
 
-class Service extends EmployeeServices {
+class
+Service extends EmployeeServices {
   val URL = "mongodb://localhost:27017"
   val Clint = MongoClient(URL)
   val Database = Clint.getDatabase("EmployeeDatabase")

@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="388a1a24-8474-4b61-b3da-199255600b4b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="388a1a24-8474-4b61-b3da-199255600b4b" name="Changes" comment="commit 3 all code fill with new branch">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Controlar/CompanyControlar.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/View/CompanyVIEW.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/modal/Company.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/modal/CompanySrevice.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Controlar/FirstControlar.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Controlar/FirstControlar.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/modal/Employe.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/modal/Employe.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/modal/EmployeServices.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/modal/EmployeServices.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/View/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/View/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/modal/Service.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/modal/Service.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,9 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1682509843332</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit 3 all code fill with new branch">
+      <created>1682581706652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682581706652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit 3 all code fill with new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3 all code fill with new branch" />
   </component>
 </project>
