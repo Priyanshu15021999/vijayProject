@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="388a1a24-8474-4b61-b3da-199255600b4b" name="Changes" comment="commit 3 all company code fill with new branch priyanshu">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Controlar/ficodeControlar.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/View/ficode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/modal/ficode.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Controlar/FirstControlar.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Controlar/FirstControlar.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/View/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/View/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="388a1a24-8474-4b61-b3da-199255600b4b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
