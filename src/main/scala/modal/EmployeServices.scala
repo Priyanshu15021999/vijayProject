@@ -1,0 +1,5 @@
+package modal
+
+trait EmployeServices {
+
+}
