@@ -1,3 +1,3 @@
 package modal
 
-case class Employe()
+case class Employee(_id:Int , EmployeeName:String, EmployeeSalary:Double , EmployeeDept:String)
