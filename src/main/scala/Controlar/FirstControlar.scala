@@ -65,6 +65,7 @@ class FirstControlar  extends EmployeeJson{
 
 object Controlar1 {
   def main(args: Array[String]): Unit = {
+    print("hello" )
     implicit val syatem = ActorSystem()
     implicit val materializer= ActorMaterializer()
     implicit val dc= syatem.dispatchers
